@@ -1,3 +1,5 @@
+# KR2: Панов
+
 import os
 import socket
 
